@@ -1,0 +1,28 @@
+underlay-xy(
+  underlay-xy(
+    underlay-xy(
+      rectangle(
+        30,
+        30,
+        "solid",
+        "light-blue"),
+      0,
+      0,
+      circle(
+        30,
+        "solid",
+        "lime")),
+      
+    0,
+    0,
+    circle(
+      20,
+      "solid",
+      "light-blue")),
+  10,
+  10,
+  rectangle(
+    15,
+    15,
+    "solid",
+    "yellow"))
