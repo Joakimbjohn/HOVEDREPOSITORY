@@ -67,4 +67,4 @@ end
 "Tester tabellen der energiforbruket til bil er definert"
 bil-fiks
 
-bar-chart(table2, 'komponent', 'energi')
+bar-chart(bil-fiks, 'komponent', 'energi')
